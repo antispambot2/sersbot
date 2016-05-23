@@ -198,7 +198,7 @@ local function run(msg, matches)
      
      text = text..'رابط کاربری : نامعلوم'
     end
-	text = text..'\n\n@avast_team'
+	text = text..'\n\n@puoker'
     return send_msg(receiver, text, ok_cb, true)
     end
   end
