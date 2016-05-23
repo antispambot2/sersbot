@@ -17,13 +17,13 @@ end
 if msg.text == "salam" then
   return "کیر خر و سلام :]"
 end
-if msg.text == "آواست" then
+if msg.text == "سرس" then
   return "بهترین"
 end
-if msg.text == "Avast" then
+if msg.text == "sers" then
   return "بهترین"
 end
-if msg.text == "AVAST" then
+if msg.text == "sers" then
   return "جان"
 end
 if msg.text == "bot" then
@@ -56,7 +56,7 @@ end
 if msg.text == "arash" then
   return "چیکار داری بابامو؟"
 end
-if msg.text == "@arashnomiri" then
+if msg.text == "عليرضا" then
   return "چیکار داری بابامو؟"
 end
 end
