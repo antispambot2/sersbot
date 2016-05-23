@@ -222,6 +222,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
+    "abjad",
     "all",
     "leave_ban",
     "admin",
@@ -288,17 +289,6 @@ function create_config( )
     about_text = [[avast-Bot V7.5 - http://bit.ly/1SCRF1i
 ربات پیشرفته برپایه لوا
 
-اعضای تیم آواست:
-@arashnomiri
-@Oo_sArDaR_marginam_oO
-@redteam_01_01
-@Pukeram
-@iq_plus
-@negative_officiall
-@DrCyber1736
-
-کانال:
-@avast_Team
 ]],
     help_text_realm = [[
 Realm Commands:
